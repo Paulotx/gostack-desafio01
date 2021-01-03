@@ -2,4 +2,4 @@
 Desafio 01 - GoStack Rocketseat
 
 Mini Projeto desenvolvido durante curso GoStack da Rocketseat
-Obejetivo: Colocar em prática conceitos do Node.js
+> Obejetivo: Colocar em prática conceitos do Node.js
